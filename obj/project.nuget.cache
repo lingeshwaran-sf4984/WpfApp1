@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvfxXmwct/Q=",
+  "success": true,
+  "projectFilePath": "D:\\CIPipeline\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LingeshwaranSankar\\.nuget\\packages\\syncfusion.compression.base\\35.1.37\\syncfusion.compression.base.35.1.37.nupkg.sha512",
+    "C:\\Users\\LingeshwaranSankar\\.nuget\\packages\\syncfusion.licensing\\35.1.37\\syncfusion.licensing.35.1.37.nupkg.sha512",
+    "C:\\Users\\LingeshwaranSankar\\.nuget\\packages\\syncfusion.pdf.wpf\\35.1.37\\syncfusion.pdf.wpf.35.1.37.nupkg.sha512",
+    "C:\\Users\\LingeshwaranSankar\\.nuget\\packages\\syncfusion.pdftoimageconverter.wpf\\35.1.37\\syncfusion.pdftoimageconverter.wpf.35.1.37.nupkg.sha512",
+    "C:\\Users\\LingeshwaranSankar\\.nuget\\packages\\syncfusion.pdfviewer.wpf\\35.1.37\\syncfusion.pdfviewer.wpf.35.1.37.nupkg.sha512",
+    "C:\\Users\\LingeshwaranSankar\\.nuget\\packages\\syncfusion.shared.wpf\\35.1.37\\syncfusion.shared.wpf.35.1.37.nupkg.sha512",
+    "C:\\Users\\LingeshwaranSankar\\.nuget\\packages\\syncfusion.telemetry\\35.1.37\\syncfusion.telemetry.35.1.37.nupkg.sha512"
+  ],
+  "logs": []
+}

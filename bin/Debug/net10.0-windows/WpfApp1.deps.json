@@ -1,0 +1,151 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WpfApp1/1.0.0": {
+        "dependencies": {
+          "Syncfusion.PdfViewer.WPF": "35.1.37"
+        },
+        "runtime": {
+          "WpfApp1.dll": {}
+        }
+      },
+      "Syncfusion.Compression.Base/35.1.37": {
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.Compression.Base.dll": {
+            "assemblyVersion": "35.1.37.0",
+            "fileVersion": "35.1.37.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/35.1.37": {
+        "runtime": {
+          "lib/net10.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "35.1.37.0",
+            "fileVersion": "35.1.37.0"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Wpf/35.1.37": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "35.1.37",
+          "Syncfusion.Licensing": "35.1.37",
+          "Syncfusion.Telemetry": "35.1.37"
+        },
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.Pdf.Base.dll": {
+            "assemblyVersion": "35.1.37.0",
+            "fileVersion": "35.1.37.0"
+          }
+        }
+      },
+      "Syncfusion.PdfToImageConverter.WPF/35.1.37": {
+        "dependencies": {
+          "Syncfusion.Licensing": "35.1.37"
+        },
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.PdfToImageConverter.Base.dll": {
+            "assemblyVersion": "35.1.37.0",
+            "fileVersion": "35.1.37.0"
+          }
+        }
+      },
+      "Syncfusion.PdfViewer.WPF/35.1.37": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "35.1.37",
+          "Syncfusion.Licensing": "35.1.37",
+          "Syncfusion.Pdf.Wpf": "35.1.37",
+          "Syncfusion.PdfToImageConverter.WPF": "35.1.37",
+          "Syncfusion.Shared.WPF": "35.1.37",
+          "Syncfusion.Telemetry": "35.1.37"
+        },
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.PdfViewer.WPF.dll": {
+            "assemblyVersion": "35.1.37.0",
+            "fileVersion": "35.1.37.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/35.1.37": {
+        "dependencies": {
+          "Syncfusion.Licensing": "35.1.37",
+          "Syncfusion.Telemetry": "35.1.37"
+        },
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "35.1.37.0",
+            "fileVersion": "35.1.37.0"
+          }
+        }
+      },
+      "Syncfusion.Telemetry/35.1.37": {
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.Telemetry.dll": {
+            "assemblyVersion": "35.1.37.0",
+            "fileVersion": "35.1.37.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Compression.Base/35.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8IP4iXoXv4cj+WArzEmLeKzmHkdJEaTKFgCm2pyJwzorITBAIWD922iVSu9bJLI6G2dKcx/sOwJ4JkE3fLFhBA==",
+      "path": "syncfusion.compression.base/35.1.37",
+      "hashPath": "syncfusion.compression.base.35.1.37.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/35.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RHPJqBMSbyx4MFO8bBgbQD41j2JEdOrv/lmiC4zTNMt2VfKpIQU/nEiT/6cMfFueYjMF6o6nj0bLoQzXeflWCQ==",
+      "path": "syncfusion.licensing/35.1.37",
+      "hashPath": "syncfusion.licensing.35.1.37.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.Wpf/35.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uhMJocP6OLGqMgm8Y4iT21Rvv66jU3tklrG3NRZIDDzdFTn9NTB5F8HetbAwnihRAiQb3sLWgVoMmtr/cIdLvQ==",
+      "path": "syncfusion.pdf.wpf/35.1.37",
+      "hashPath": "syncfusion.pdf.wpf.35.1.37.nupkg.sha512"
+    },
+    "Syncfusion.PdfToImageConverter.WPF/35.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3Fj0Tg7OnBrZn2qWhZoJ7wWCYDgA93wM8Zwn/ry5pzMtP5UtGy17/ELnHZ2pqP/FR9c34tsiLxRTGeeNZUW71A==",
+      "path": "syncfusion.pdftoimageconverter.wpf/35.1.37",
+      "hashPath": "syncfusion.pdftoimageconverter.wpf.35.1.37.nupkg.sha512"
+    },
+    "Syncfusion.PdfViewer.WPF/35.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/gLzXwxrN2+UfQWXJGn5rIEOwqDfiYt99aD5Lh8YrJC4QdBNzh8MfQ7Y+z98NEoOFhhwSRVOPksBRT1ddRpeXg==",
+      "path": "syncfusion.pdfviewer.wpf/35.1.37",
+      "hashPath": "syncfusion.pdfviewer.wpf.35.1.37.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/35.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-anjRLvvrVZSv6+a0ncrtzKBVQkllVydmKZ9fGxwlBAq+un3RwJbt4GagO0z/o7AAWAi3varUde96ZTwCdhYjpw==",
+      "path": "syncfusion.shared.wpf/35.1.37",
+      "hashPath": "syncfusion.shared.wpf.35.1.37.nupkg.sha512"
+    },
+    "Syncfusion.Telemetry/35.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UMcPQdJAqSUgA9BQVS9SG79zJuBz9fjoK5W4H0cdv98G0FGopghEOU7jQBepQmknnIVgfoPfuHcDa8MmseAcog==",
+      "path": "syncfusion.telemetry/35.1.37",
+      "hashPath": "syncfusion.telemetry.35.1.37.nupkg.sha512"
+    }
+  }
+}
